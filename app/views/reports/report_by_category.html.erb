@@ -1,0 +1,60 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script type='text/javascript'>
+    (function(){
+    if(!sessionStorage.getItem('firstLoad')){
+        sessionStorage['firstLoad'] = true;
+        window.location.reload();
+    }else{
+        sessionStorage.removeItem('firstLoad');
+    }})();
+</script>
+
+<h1><strong>Звіт по категоріям</strong></h1>
+<h3>За період з <%= @start_date %> по <%= @end_date %></h3>
+<div class='parent'>
+    <div>
+        <canvas id="myChart" width="600" height="600"></canvas>
+        <script>
+            const data = {
+            labels: <%= raw @dates %>,
+            datasets: [{
+                label: 'Звіт по категоріям',
+                data: <%= @money %>,
+                backgroundColor: ['rgb(102, 178, 255)', 'rgb(153, 153, 255)', 'rgb(255, 204, 153)', 'rgb(255, 153, 153)', 'rgb(255, 255, 153)', 'rgb(204, 255, 204)', 'rgb(155, 153, 204)'],
+                hoverOffset: 4
+            }]
+            };
+            
+            const config = {
+                type: 'doughnut',
+                data: data,
+                options: {responsive: false}
+            };
+            
+            const myChart = new Chart(
+            document.getElementById('myChart'),
+            config
+            );
+        </script>
+    </div>
+
+    <div class="container text-left">
+        <table class="table table-hover table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Категорія</th>
+                    <th>Сума</th>
+                </tr>    
+            </thead>
+            <tbody>
+                <tr>
+                    <% @report_by_cat.each do |category, amount| %>
+                    <td><%= category %></td>
+                    <td><%= amount %></td>
+                </tr>
+                <% end %>
+                <td style="background:#ffeecc" colspan="2">Всього: <%= @money.sum %>грн.</td>
+            </tbody>
+        </table>
+    </div>
+</div>

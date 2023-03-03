@@ -1,0 +1,3581 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+operation_1:
+  id: 1
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1173e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-12 00:00:00.000000000 Z
+  description: neclh
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.586771000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.586771000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.586771000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.586771000 Z
+
+operation_2:
+  id: 2
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8457e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-09 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-09 00:00:00.000000000 Z
+  description: bgnct
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.610623000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.610623000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.610623000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.610623000 Z
+
+operation_3:
+  id: 3
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3213e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-18 00:00:00.000000000 Z
+  description: fqysn
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.634146000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.634146000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.634146000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.634146000 Z
+
+operation_4:
+  id: 4
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6413e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-12 00:00:00.000000000 Z
+  description: hkqrp
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.657577000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.657577000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.657577000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.657577000 Z
+
+operation_5:
+  id: 5
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5557e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-25 00:00:00.000000000 Z
+  description: iwwzp
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.680875000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.680875000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.680875000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.680875000 Z
+
+operation_6:
+  id: 6
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5803e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-24 00:00:00.000000000 Z
+  description: pgnzm
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.704402000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.704402000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.704402000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.704402000 Z
+
+operation_7:
+  id: 7
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2247e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-03 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-03 00:00:00.000000000 Z
+  description: epoax
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.728023000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.728023000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.728023000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.728023000 Z
+
+operation_8:
+  id: 8
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1441e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-18 00:00:00.000000000 Z
+  description: jsdgh
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.751346000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.751346000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.751346000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.751346000 Z
+
+operation_9:
+  id: 9
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4949e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: vixux
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.774521000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.774521000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.774521000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.774521000 Z
+
+operation_10:
+  id: 10
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5058e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-24 00:00:00.000000000 Z
+  description: etqks
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.798516000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.798516000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.798516000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.798516000 Z
+
+operation_11:
+  id: 11
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4394e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: irluv
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.550187000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.550187000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.550187000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.550187000 Z
+
+operation_12:
+  id: 12
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2414e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-13 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-13 00:00:00.000000000 Z
+  description: vknrf
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.586066000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.586066000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.586066000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.586066000 Z
+
+operation_13:
+  id: 13
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3217e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-20 00:00:00.000000000 Z
+  description: fyovs
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.609094000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.609094000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.609094000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.609094000 Z
+
+operation_14:
+  id: 14
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4368e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-02 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-02 00:00:00.000000000 Z
+  description: ngguo
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.631761000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.631761000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.631761000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.631761000 Z
+
+operation_15:
+  id: 15
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8042e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-31 00:00:00.000000000 Z
+  description: txvgh
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.654260000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.654260000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.654260000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.654260000 Z
+
+operation_16:
+  id: 16
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2191e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-02 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-02 00:00:00.000000000 Z
+  description: sgqvf
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.677427000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.677427000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.677427000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.677427000 Z
+
+operation_17:
+  id: 17
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4769e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-13 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-13 00:00:00.000000000 Z
+  description: grfym
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.699950000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.699950000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.699950000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.699950000 Z
+
+operation_18:
+  id: 18
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8419e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-19 00:00:00.000000000 Z
+  description: icvfw
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.722736000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.722736000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.722736000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.722736000 Z
+
+operation_19:
+  id: 19
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9381e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-13 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-13 00:00:00.000000000 Z
+  description: ahfmw
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.745425000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.745425000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.745425000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.745425000 Z
+
+operation_20:
+  id: 20
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1287e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: dfowe
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.768485000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.768485000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:18.768485000 Z
+    zone: *1
+    time: 2023-02-16 18:12:18.768485000 Z
+
+operation_21:
+  id: 21
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6037e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: qzzdc
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.394226000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.394226000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.394226000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.394226000 Z
+
+operation_22:
+  id: 22
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2407e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: oypcl
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.428033000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.428033000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.428033000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.428033000 Z
+
+operation_23:
+  id: 23
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9729e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-04 00:00:00.000000000 Z
+  description: ujgfq
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.450743000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.450743000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.450743000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.450743000 Z
+
+operation_24:
+  id: 24
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4189e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: dieff
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.473093000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.473093000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.473093000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.473093000 Z
+
+operation_25:
+  id: 25
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8053e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: pdtaf
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.495432000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.495432000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.495432000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.495432000 Z
+
+operation_26:
+  id: 26
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5199e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-29 00:00:00.000000000 Z
+  description: zewki
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.518967000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.518967000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.518967000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.518967000 Z
+
+operation_27:
+  id: 27
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2826e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: lcqhw
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.542196000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.542196000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.542196000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.542196000 Z
+
+operation_28:
+  id: 28
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1301e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-20 00:00:00.000000000 Z
+  description: oatjd
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.565368000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.565368000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.565368000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.565368000 Z
+
+operation_29:
+  id: 29
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7757e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-05 00:00:00.000000000 Z
+  description: hycfd
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.588056000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.588056000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.588056000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.588056000 Z
+
+operation_30:
+  id: 30
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1865e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-12 00:00:00.000000000 Z
+  description: zfuuc
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.610788000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.610788000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:33.610788000 Z
+    zone: *1
+    time: 2023-02-16 18:12:33.610788000 Z
+
+operation_31:
+  id: 31
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9297e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-17 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-17 00:00:00.000000000 Z
+  description: gtjft
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.363334000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.363334000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.363334000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.363334000 Z
+
+operation_32:
+  id: 32
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5254e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-17 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-17 00:00:00.000000000 Z
+  description: ywxtm
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.395634000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.395634000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.395634000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.395634000 Z
+
+operation_33:
+  id: 33
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7485e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-19 00:00:00.000000000 Z
+  description: jaupm
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.418310000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.418310000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.418310000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.418310000 Z
+
+operation_34:
+  id: 34
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8852e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-25 00:00:00.000000000 Z
+  description: nfnrm
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.440980000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.440980000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.440980000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.440980000 Z
+
+operation_35:
+  id: 35
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8277e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: mcvgf
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.463623000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.463623000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.463623000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.463623000 Z
+
+operation_36:
+  id: 36
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4504e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-29 00:00:00.000000000 Z
+  description: vvenq
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.486905000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.486905000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.486905000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.486905000 Z
+
+operation_37:
+  id: 37
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3189e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-27 00:00:00.000000000 Z
+  description: injae
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.509526000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.509526000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.509526000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.509526000 Z
+
+operation_38:
+  id: 38
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5009e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: uzfgj
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.532781000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.532781000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.532781000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.532781000 Z
+
+operation_39:
+  id: 39
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9027e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-31 00:00:00.000000000 Z
+  description: ynwui
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.555312000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.555312000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.555312000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.555312000 Z
+
+operation_40:
+  id: 40
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4654e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-09 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-09 00:00:00.000000000 Z
+  description: ysruk
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.577887000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.577887000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:41.577887000 Z
+    zone: *1
+    time: 2023-02-16 18:12:41.577887000 Z
+
+operation_41:
+  id: 41
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7922e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-26 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-26 00:00:00.000000000 Z
+  description: mmqdy
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.545984000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.545984000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.545984000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.545984000 Z
+
+operation_42:
+  id: 42
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9895e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-18 00:00:00.000000000 Z
+  description: lijoj
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.578399000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.578399000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.578399000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.578399000 Z
+
+operation_43:
+  id: 43
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8065e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-05 00:00:00.000000000 Z
+  description: qdqbr
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.601550000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.601550000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.601550000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.601550000 Z
+
+operation_44:
+  id: 44
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2092e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-31 00:00:00.000000000 Z
+  description: wknuv
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.625040000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.625040000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.625040000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.625040000 Z
+
+operation_45:
+  id: 45
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6632e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-02 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-02 00:00:00.000000000 Z
+  description: udmyb
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.648084000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.648084000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.648084000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.648084000 Z
+
+operation_46:
+  id: 46
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7249e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-28 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-28 00:00:00.000000000 Z
+  description: hbrrf
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.672934000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.672934000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.672934000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.672934000 Z
+
+operation_47:
+  id: 47
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8931e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-18 00:00:00.000000000 Z
+  description: hiahq
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.696746000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.696746000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.696746000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.696746000 Z
+
+operation_48:
+  id: 48
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3258e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: lyosv
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.720036000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.720036000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.720036000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.720036000 Z
+
+operation_49:
+  id: 49
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4951e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-05 00:00:00.000000000 Z
+  description: gcxte
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.754700000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.754700000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.754700000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.754700000 Z
+
+operation_50:
+  id: 50
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9861e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-01 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-01 00:00:00.000000000 Z
+  description: okvoq
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.778507000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.778507000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:12:48.778507000 Z
+    zone: *1
+    time: 2023-02-16 18:12:48.778507000 Z
+
+operation_51:
+  id: 51
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2522e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 20:15:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-16 20:15:00.000000000 Z
+  description: фвпіп
+  category_id: 1
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:15:40.453024000 Z
+    zone: *1
+    time: 2023-02-16 18:15:40.453024000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:15:40.453024000 Z
+    zone: *1
+    time: 2023-02-16 18:15:40.453024000 Z
+
+operation_52:
+  id: 52
+  type_operation: Дохід
+  amount: !ruby/object:BigDecimal 18:0.1e5
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 20:24:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-16 20:24:00.000000000 Z
+  description: зп
+  category_id: 6
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 18:24:30.358159000 Z
+    zone: *1
+    time: 2023-02-16 18:24:30.358159000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 20:00:54.387760000 Z
+    zone: *1
+    time: 2023-02-20 20:00:54.387760000 Z
+
+operation_53:
+  id: 53
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.1e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 21:11:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-16 21:11:00.000000000 Z
+  description: рвіраіврі
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:11:26.777162000 Z
+    zone: *1
+    time: 2023-02-16 19:11:26.777162000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:11:26.777162000 Z
+    zone: *1
+    time: 2023-02-16 19:11:26.777162000 Z
+
+operation_54:
+  id: 54
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.6e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 21:34:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-16 21:34:00.000000000 Z
+  description: таксі
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:34:47.846840000 Z
+    zone: *1
+    time: 2023-02-16 19:34:47.846840000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:37:40.264306000 Z
+    zone: *1
+    time: 2023-02-16 19:37:40.264306000 Z
+
+operation_55:
+  id: 55
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.1e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 21:41:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 21:41:00.000000000 Z
+  description: автобус
+  category_id: 2
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:41:28.771673000 Z
+    zone: *1
+    time: 2023-02-16 19:41:28.771673000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:41:28.771673000 Z
+    zone: *1
+    time: 2023-02-16 19:41:28.771673000 Z
+
+operation_56:
+  id: 56
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.1e3
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-15 21:52:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-15 21:52:00.000000000 Z
+  description: мило
+  category_id: 5
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:52:14.748607000 Z
+    zone: *1
+    time: 2023-02-16 19:52:14.748607000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 19:52:14.748607000 Z
+    zone: *1
+    time: 2023-02-16 19:52:14.748607000 Z
+
+operation_57:
+  id: 57
+  type_operation: Дохід
+  amount: !ruby/object:BigDecimal 18:0.1e5
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 21:58:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-20 21:58:00.000000000 Z
+  description: премія
+  category_id: 6
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 19:58:47.067684000 Z
+    zone: *1
+    time: 2023-02-20 19:58:47.067684000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 19:59:05.308990000 Z
+    zone: *1
+    time: 2023-02-20 19:59:05.308990000 Z
+
+operation_58:
+  id: 58
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.5e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-21 21:38:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-21 21:38:00.000000000 Z
+  description: aspirin
+  category_id: 3
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-21 19:38:24.392907000 Z
+    zone: *1
+    time: 2023-02-21 19:38:24.392907000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-21 19:38:24.392907000 Z
+    zone: *1
+    time: 2023-02-21 19:38:24.392907000 Z
+
+operation_59:
+  id: 59
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 18:0.1e1
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 22:09:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 22:09:00.000000000 Z
+  description: dfhsdh
+  category_id: 4
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:09:10.966837000 Z
+    zone: *1
+    time: 2023-02-22 20:09:10.966837000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:09:10.966837000 Z
+    zone: *1
+    time: 2023-02-22 20:09:10.966837000 Z
+
+operation_60:
+  id: 60
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1602e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-10 00:00:00.000000000 Z
+  description: hwlempqcmk
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.545013000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.545013000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.545013000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.545013000 Z
+
+operation_61:
+  id: 61
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7125e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-19 00:00:00.000000000 Z
+  description: cvfthxxdvi
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.570297000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.570297000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.570297000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.570297000 Z
+
+operation_62:
+  id: 62
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4458e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-01 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-01 00:00:00.000000000 Z
+  description: dpwwwbepnf
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.593300000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.593300000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.593300000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.593300000 Z
+
+operation_63:
+  id: 63
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8368e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-06 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-06 00:00:00.000000000 Z
+  description: lndwawqkjs
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.616465000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.616465000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.616465000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.616465000 Z
+
+operation_64:
+  id: 64
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2352e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-07 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-07 00:00:00.000000000 Z
+  description: xqoppvxwzv
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.639653000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.639653000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.639653000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.639653000 Z
+
+operation_65:
+  id: 65
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4039e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: zgyhybjhps
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.661907000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.661907000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.661907000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.661907000 Z
+
+operation_66:
+  id: 66
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3022e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-03 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-03 00:00:00.000000000 Z
+  description: pkmexolgbj
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.681148000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.681148000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.681148000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.681148000 Z
+
+operation_67:
+  id: 67
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8162e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-24 00:00:00.000000000 Z
+  description: bycmqgpudc
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.704016000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.704016000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.704016000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.704016000 Z
+
+operation_68:
+  id: 68
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4037e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-17 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-17 00:00:00.000000000 Z
+  description: hqwzzryrsl
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.733087000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.733087000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.733087000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.733087000 Z
+
+operation_69:
+  id: 69
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5976e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-20 00:00:00.000000000 Z
+  description: xyabaxqaza
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.756881000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.756881000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.756881000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.756881000 Z
+
+operation_70:
+  id: 70
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3475e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-17 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-17 00:00:00.000000000 Z
+  description: emqwxzfqcv
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.793134000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.793134000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.793134000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.793134000 Z
+
+operation_71:
+  id: 71
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9382e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-14 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-14 00:00:00.000000000 Z
+  description: kippamxczv
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.816956000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.816956000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.816956000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.816956000 Z
+
+operation_72:
+  id: 72
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9506e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-27 00:00:00.000000000 Z
+  description: xjesrwmcig
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.840654000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.840654000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.840654000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.840654000 Z
+
+operation_73:
+  id: 73
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1372e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-24 00:00:00.000000000 Z
+  description: szbdwrhrky
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.863997000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.863997000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.863997000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.863997000 Z
+
+operation_74:
+  id: 74
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2419e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-19 00:00:00.000000000 Z
+  description: sklaamuvwu
+  category_id: 16
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.887207000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.887207000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:12.887207000 Z
+    zone: *1
+    time: 2023-02-22 21:01:12.887207000 Z
+
+operation_75:
+  id: 75
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7199e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-18 00:00:00.000000000 Z
+  description: crwnpspqmj
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.450886000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.450886000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.450886000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.450886000 Z
+
+operation_76:
+  id: 76
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4158e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-30 00:00:00.000000000 Z
+  description: hbzytffxxi
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.483091000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.483091000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.483091000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.483091000 Z
+
+operation_77:
+  id: 77
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3365e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-05 00:00:00.000000000 Z
+  description: gmlujechme
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.506336000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.506336000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.506336000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.506336000 Z
+
+operation_78:
+  id: 78
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4327e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-06 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-06 00:00:00.000000000 Z
+  description: xlashcsfzc
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.529105000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.529105000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.529105000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.529105000 Z
+
+operation_79:
+  id: 79
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6269e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-04 00:00:00.000000000 Z
+  description: pxbmaobmzh
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.552130000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.552130000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.552130000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.552130000 Z
+
+operation_80:
+  id: 80
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3765e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: ghlhtpeflt
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.575282000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.575282000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.575282000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.575282000 Z
+
+operation_81:
+  id: 81
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6145e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-04 00:00:00.000000000 Z
+  description: eoskpjtgtp
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.597802000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.597802000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.597802000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.597802000 Z
+
+operation_82:
+  id: 82
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8727e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-30 00:00:00.000000000 Z
+  description: jptokroinj
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.637023000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.637023000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.637023000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.637023000 Z
+
+operation_83:
+  id: 83
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8731e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-11 00:00:00.000000000 Z
+  description: nccqwigsfh
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.659961000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.659961000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.659961000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.659961000 Z
+
+operation_84:
+  id: 84
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8178e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-03 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-03 00:00:00.000000000 Z
+  description: ziqxofddwf
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.682901000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.682901000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.682901000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.682901000 Z
+
+operation_85:
+  id: 85
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3326e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-20 00:00:00.000000000 Z
+  description: bpqxprrmqk
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.705807000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.705807000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.705807000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.705807000 Z
+
+operation_86:
+  id: 86
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5946e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-27 00:00:00.000000000 Z
+  description: atfchwhmsg
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.729628000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.729628000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.729628000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.729628000 Z
+
+operation_87:
+  id: 87
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7239e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-15 00:00:00.000000000 Z
+  description: afvamscjlx
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.752202000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.752202000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.752202000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.752202000 Z
+
+operation_88:
+  id: 88
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9252e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-15 00:00:00.000000000 Z
+  description: qkrniqzcct
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.774574000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.774574000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.774574000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.774574000 Z
+
+operation_89:
+  id: 89
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5288e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-08 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-08 00:00:00.000000000 Z
+  description: mpfdyrfeuk
+  category_id: 15
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.797026000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.797026000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:21.797026000 Z
+    zone: *1
+    time: 2023-02-22 21:01:21.797026000 Z
+
+operation_90:
+  id: 90
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5429e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-22 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-22 00:00:00.000000000 Z
+  description: sdheimscqf
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.931528000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.931528000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.931528000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.931528000 Z
+
+operation_91:
+  id: 91
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3822e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-10 00:00:00.000000000 Z
+  description: cimobcuxvj
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.962884000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.962884000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.962884000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.962884000 Z
+
+operation_92:
+  id: 92
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4835e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-11 00:00:00.000000000 Z
+  description: xnwmiqibpf
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.985531000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.985531000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:28.985531000 Z
+    zone: *1
+    time: 2023-02-22 21:01:28.985531000 Z
+
+operation_93:
+  id: 93
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3636e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-08 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-08 00:00:00.000000000 Z
+  description: ypevnglduq
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.009318000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.009318000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.009318000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.009318000 Z
+
+operation_94:
+  id: 94
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6197e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-14 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-14 00:00:00.000000000 Z
+  description: vvnabwvosl
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.037271000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.037271000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.037271000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.037271000 Z
+
+operation_95:
+  id: 95
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3756e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-03 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-03 00:00:00.000000000 Z
+  description: yuezkvoqfc
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.061274000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.061274000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.061274000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.061274000 Z
+
+operation_96:
+  id: 96
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1468e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-29 00:00:00.000000000 Z
+  description: lufondxcll
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.084952000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.084952000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.084952000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.084952000 Z
+
+operation_97:
+  id: 97
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6736e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: cfcagqdcqd
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.108934000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.108934000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.108934000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.108934000 Z
+
+operation_98:
+  id: 98
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3582e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-24 00:00:00.000000000 Z
+  description: qsckhgkbqa
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.132041000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.132041000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.132041000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.132041000 Z
+
+operation_99:
+  id: 99
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9037e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-19 00:00:00.000000000 Z
+  description: dhpmuouyvu
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.155482000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.155482000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.155482000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.155482000 Z
+
+operation_100:
+  id: 100
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5425e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-11 00:00:00.000000000 Z
+  description: udbwjpuvmv
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.178881000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.178881000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.178881000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.178881000 Z
+
+operation_101:
+  id: 101
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5676e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-12 00:00:00.000000000 Z
+  description: hsbntztkca
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.202610000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.202610000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.202610000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.202610000 Z
+
+operation_102:
+  id: 102
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6317e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-11 00:00:00.000000000 Z
+  description: tzvtkjrwpi
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.227594000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.227594000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.227594000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.227594000 Z
+
+operation_103:
+  id: 103
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6791e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-11 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-11 00:00:00.000000000 Z
+  description: bdtnzrlpph
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.251963000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.251963000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.251963000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.251963000 Z
+
+operation_104:
+  id: 104
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1389e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-05 00:00:00.000000000 Z
+  description: cbnvrygsqi
+  category_id: 14
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.274952000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.274952000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:29.274952000 Z
+    zone: *1
+    time: 2023-02-22 21:01:29.274952000 Z
+
+operation_105:
+  id: 105
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3848e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-30 00:00:00.000000000 Z
+  description: wiuinlbtda
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.391202000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.391202000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.391202000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.391202000 Z
+
+operation_106:
+  id: 106
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6012e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-15 00:00:00.000000000 Z
+  description: nlqmbmpfeg
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.423095000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.423095000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.423095000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.423095000 Z
+
+operation_107:
+  id: 107
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3483e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-25 00:00:00.000000000 Z
+  description: ellehmztbh
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.460257000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.460257000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.460257000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.460257000 Z
+
+operation_108:
+  id: 108
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2767e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-01 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-01 00:00:00.000000000 Z
+  description: jhyayubqmg
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.483603000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.483603000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.483603000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.483603000 Z
+
+operation_109:
+  id: 109
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4498e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-01 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-01 00:00:00.000000000 Z
+  description: cfjoovxebn
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.507203000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.507203000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.507203000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.507203000 Z
+
+operation_110:
+  id: 110
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9617e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-09 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-09 00:00:00.000000000 Z
+  description: wicfddijqm
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.530637000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.530637000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.530637000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.530637000 Z
+
+operation_111:
+  id: 111
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5715e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-04 00:00:00.000000000 Z
+  description: nhafzyypsd
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.554543000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.554543000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.554543000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.554543000 Z
+
+operation_112:
+  id: 112
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9549e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-19 00:00:00.000000000 Z
+  description: bzplgozfdz
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.576381000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.576381000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.576381000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.576381000 Z
+
+operation_113:
+  id: 113
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4124e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-18 00:00:00.000000000 Z
+  description: cdjyzmneqg
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.595508000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.595508000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.595508000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.595508000 Z
+
+operation_114:
+  id: 114
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4352e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: pneutwqxzz
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.624211000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.624211000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.624211000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.624211000 Z
+
+operation_115:
+  id: 115
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6699e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-13 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-13 00:00:00.000000000 Z
+  description: znyikfrxka
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.651307000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.651307000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.651307000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.651307000 Z
+
+operation_116:
+  id: 116
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5513e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-27 00:00:00.000000000 Z
+  description: wbsbtycudz
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.679227000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.679227000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.679227000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.679227000 Z
+
+operation_117:
+  id: 117
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9593e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-10 00:00:00.000000000 Z
+  description: goddjduyjo
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.712303000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.712303000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.712303000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.712303000 Z
+
+operation_118:
+  id: 118
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9916e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-29 00:00:00.000000000 Z
+  description: xehonprfjj
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.740132000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.740132000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.740132000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.740132000 Z
+
+operation_119:
+  id: 119
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5236e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-27 00:00:00.000000000 Z
+  description: tsmkfbwhml
+  category_id: 13
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.765724000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.765724000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:37.765724000 Z
+    zone: *1
+    time: 2023-02-22 21:01:37.765724000 Z
+
+operation_120:
+  id: 120
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8708e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-04 00:00:00.000000000 Z
+  description: qcvxcikaps
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.346895000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.346895000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.346895000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.346895000 Z
+
+operation_121:
+  id: 121
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9158e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-10 00:00:00.000000000 Z
+  description: beqmhxxyxm
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.392321000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.392321000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.392321000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.392321000 Z
+
+operation_122:
+  id: 122
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1209e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: jowfyqtkyu
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.415413000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.415413000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.415413000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.415413000 Z
+
+operation_123:
+  id: 123
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1215e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-29 00:00:00.000000000 Z
+  description: xskyxrkzvz
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.438547000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.438547000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.438547000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.438547000 Z
+
+operation_124:
+  id: 124
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8848e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-21 00:00:00.000000000 Z
+  description: giiugjjmvr
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.461822000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.461822000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.461822000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.461822000 Z
+
+operation_125:
+  id: 125
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9517e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-19 00:00:00.000000000 Z
+  description: bpfkwyljjc
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.484866000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.484866000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.484866000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.484866000 Z
+
+operation_126:
+  id: 126
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8166e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-22 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-22 00:00:00.000000000 Z
+  description: lpjuauaexa
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.508520000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.508520000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.508520000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.508520000 Z
+
+operation_127:
+  id: 127
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6059e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-04 00:00:00.000000000 Z
+  description: wbekxbpadl
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.531667000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.531667000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.531667000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.531667000 Z
+
+operation_128:
+  id: 128
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6962e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-20 00:00:00.000000000 Z
+  description: vxktitsjbq
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.559286000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.559286000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.559286000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.559286000 Z
+
+operation_129:
+  id: 129
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9082e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-06 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-06 00:00:00.000000000 Z
+  description: gjobkotwjd
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.583082000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.583082000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.583082000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.583082000 Z
+
+operation_130:
+  id: 130
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2036e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-30 00:00:00.000000000 Z
+  description: zmzpxkvebv
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.606415000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.606415000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.606415000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.606415000 Z
+
+operation_131:
+  id: 131
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6654e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-09 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-09 00:00:00.000000000 Z
+  description: qhqbxozcqr
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.629346000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.629346000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.629346000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.629346000 Z
+
+operation_132:
+  id: 132
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1482e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 00:00:00.000000000 Z
+  description: baajmhjhop
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.668902000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.668902000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.668902000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.668902000 Z
+
+operation_133:
+  id: 133
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6347e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-07 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-07 00:00:00.000000000 Z
+  description: boiyadwfow
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.692355000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.692355000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.692355000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.692355000 Z
+
+operation_134:
+  id: 134
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6643e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-05 00:00:00.000000000 Z
+  description: ymefhykhzi
+  category_id: 12
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.715675000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.715675000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:45.715675000 Z
+    zone: *1
+    time: 2023-02-22 21:01:45.715675000 Z
+
+operation_135:
+  id: 135
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8511e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-08 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-08 00:00:00.000000000 Z
+  description: ttaqplohce
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.229103000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.229103000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.229103000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.229103000 Z
+
+operation_136:
+  id: 136
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8567e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-15 00:00:00.000000000 Z
+  description: qigdgjezvb
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.261004000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.261004000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.261004000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.261004000 Z
+
+operation_137:
+  id: 137
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9241e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-20 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-20 00:00:00.000000000 Z
+  description: zafbszblha
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.287024000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.287024000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.287024000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.287024000 Z
+
+operation_138:
+  id: 138
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1035e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-03 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-03 00:00:00.000000000 Z
+  description: eimwjznuno
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.309748000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.309748000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.309748000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.309748000 Z
+
+operation_139:
+  id: 139
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8998e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-25 00:00:00.000000000 Z
+  description: kjkrtsjwqu
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.332661000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.332661000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.332661000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.332661000 Z
+
+operation_140:
+  id: 140
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6001e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-12 00:00:00.000000000 Z
+  description: esjpsnitug
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.355895000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.355895000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.355895000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.355895000 Z
+
+operation_141:
+  id: 141
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2176e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-16 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-16 00:00:00.000000000 Z
+  description: ustzeorfiv
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.379576000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.379576000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.379576000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.379576000 Z
+
+operation_142:
+  id: 142
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6991e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-25 00:00:00.000000000 Z
+  description: lbpdzdvzpf
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.402963000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.402963000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.402963000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.402963000 Z
+
+operation_143:
+  id: 143
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9644e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-31 00:00:00.000000000 Z
+  description: nitupyvayu
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.426211000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.426211000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.426211000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.426211000 Z
+
+operation_144:
+  id: 144
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7516e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-25 00:00:00.000000000 Z
+  description: tbahmznplk
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.449436000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.449436000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.449436000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.449436000 Z
+
+operation_145:
+  id: 145
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3676e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-26 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-26 00:00:00.000000000 Z
+  description: nvgmvommfy
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.472890000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.472890000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.472890000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.472890000 Z
+
+operation_146:
+  id: 146
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5192e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-10 00:00:00.000000000 Z
+  description: pjkujthaod
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.496017000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.496017000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.496017000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.496017000 Z
+
+operation_147:
+  id: 147
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6918e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-27 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-27 00:00:00.000000000 Z
+  description: jaiejhjtin
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.519369000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.519369000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.519369000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.519369000 Z
+
+operation_148:
+  id: 148
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4723e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-05 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-05 00:00:00.000000000 Z
+  description: gxakosxlmr
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.542731000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.542731000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.542731000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.542731000 Z
+
+operation_149:
+  id: 149
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5147e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-31 00:00:00.000000000 Z
+  description: uxnicfnqgm
+  category_id: 11
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.566146000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.566146000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:01:53.566146000 Z
+    zone: *1
+    time: 2023-02-22 21:01:53.566146000 Z
+
+operation_150:
+  id: 150
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9308e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-31 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-31 00:00:00.000000000 Z
+  description: zmzbblxjey
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.304759000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.304759000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.304759000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.304759000 Z
+
+operation_151:
+  id: 151
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6103e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-30 00:00:00.000000000 Z
+  description: dzkaxvyxub
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.354209000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.354209000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.354209000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.354209000 Z
+
+operation_152:
+  id: 152
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7949e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-18 00:00:00.000000000 Z
+  description: xoiwmkoaaa
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.376780000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.376780000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.376780000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.376780000 Z
+
+operation_153:
+  id: 153
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1716e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-26 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-26 00:00:00.000000000 Z
+  description: whbnpzefyp
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.399240000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.399240000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.399240000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.399240000 Z
+
+operation_154:
+  id: 154
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1685e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-30 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-30 00:00:00.000000000 Z
+  description: tnorcjewsz
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.422472000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.422472000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.422472000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.422472000 Z
+
+operation_155:
+  id: 155
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6291e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: chhppxxrls
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.445901000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.445901000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.445901000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.445901000 Z
+
+operation_156:
+  id: 156
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2065e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-15 00:00:00.000000000 Z
+  description: eceeecrluk
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.469554000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.469554000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.469554000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.469554000 Z
+
+operation_157:
+  id: 157
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9775e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-25 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-25 00:00:00.000000000 Z
+  description: ajepsygfsi
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.489385000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.489385000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.489385000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.489385000 Z
+
+operation_158:
+  id: 158
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2242e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-19 00:00:00.000000000 Z
+  description: xngiesbotl
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.510918000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.510918000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.510918000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.510918000 Z
+
+operation_159:
+  id: 159
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3174e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-10 00:00:00.000000000 Z
+  description: dyocrsaxaf
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.540301000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.540301000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.540301000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.540301000 Z
+
+operation_160:
+  id: 160
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4822e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-10 00:00:00.000000000 Z
+  description: rjukzmufyr
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.568263000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.568263000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.568263000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.568263000 Z
+
+operation_161:
+  id: 161
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3564e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-22 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-22 00:00:00.000000000 Z
+  description: vegpqbxkfi
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.594144000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.594144000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.594144000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.594144000 Z
+
+operation_162:
+  id: 162
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6788e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-19 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-19 00:00:00.000000000 Z
+  description: fdhcoogzpm
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.623930000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.623930000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.623930000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.623930000 Z
+
+operation_163:
+  id: 163
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3472e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-29 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-29 00:00:00.000000000 Z
+  description: euamcajimp
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.657877000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.657877000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.657877000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.657877000 Z
+
+operation_164:
+  id: 164
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2783e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-02 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-02 00:00:00.000000000 Z
+  description: xekpwygcxj
+  category_id: 9
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.687680000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.687680000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:10.687680000 Z
+    zone: *1
+    time: 2023-02-22 21:04:10.687680000 Z
+
+operation_165:
+  id: 165
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8352e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-12 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-12 00:00:00.000000000 Z
+  description: avyleposli
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.374975000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.374975000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.374975000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.374975000 Z
+
+operation_166:
+  id: 166
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.1162e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-04 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-04 00:00:00.000000000 Z
+  description: ileujdtupf
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.406824000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.406824000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.406824000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.406824000 Z
+
+operation_167:
+  id: 167
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8765e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-15 00:00:00.000000000 Z
+  description: eqvsyvqrtm
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.429516000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.429516000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.429516000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.429516000 Z
+
+operation_168:
+  id: 168
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.6537e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-24 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-24 00:00:00.000000000 Z
+  description: axpnlmfppy
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.456100000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.456100000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.456100000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.456100000 Z
+
+operation_169:
+  id: 169
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9559e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-13 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-13 00:00:00.000000000 Z
+  description: xdrgjzvcrh
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.479510000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.479510000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.479510000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.479510000 Z
+
+operation_170:
+  id: 170
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3013e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-28 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-28 00:00:00.000000000 Z
+  description: sctqfiunlw
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.503313000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.503313000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.503313000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.503313000 Z
+
+operation_171:
+  id: 171
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.7075e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-23 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-23 00:00:00.000000000 Z
+  description: wohbhnkkkq
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.526386000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.526386000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.526386000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.526386000 Z
+
+operation_172:
+  id: 172
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.5325e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2022-12-28 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2022-12-28 00:00:00.000000000 Z
+  description: tvhijrkyvt
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.550358000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.550358000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.550358000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.550358000 Z
+
+operation_173:
+  id: 173
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9701e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-15 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-15 00:00:00.000000000 Z
+  description: qweusoichl
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.573700000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.573700000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.573700000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.573700000 Z
+
+operation_174:
+  id: 174
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.2382e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-10 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-10 00:00:00.000000000 Z
+  description: ubqryfohfg
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.597376000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.597376000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.597376000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.597376000 Z
+
+operation_175:
+  id: 175
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9692e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-18 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-18 00:00:00.000000000 Z
+  description: oelmhhpbin
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.621046000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.621046000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.621046000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.621046000 Z
+
+operation_176:
+  id: 176
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.3502e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-21 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-21 00:00:00.000000000 Z
+  description: inbqmczqgn
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.644393000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.644393000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.644393000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.644393000 Z
+
+operation_177:
+  id: 177
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.8391e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-28 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-28 00:00:00.000000000 Z
+  description: mnqrtbcdaa
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.667514000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.667514000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.667514000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.667514000 Z
+
+operation_178:
+  id: 178
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.9056e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-26 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-26 00:00:00.000000000 Z
+  description: bucqvkqyak
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.691107000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.691107000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.691107000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.691107000 Z
+
+operation_179:
+  id: 179
+  type_operation: Розхід
+  amount: !ruby/object:BigDecimal 27:0.4286e2
+  odate: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-01-09 00:00:00.000000000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-01-09 00:00:00.000000000 Z
+  description: nwgjyjlsvr
+  category_id: 8
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.715290000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.715290000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 21:04:18.715290000 Z
+    zone: *1
+    time: 2023-02-22 21:04:18.715290000 Z

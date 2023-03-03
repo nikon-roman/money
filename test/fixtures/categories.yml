@@ -1,0 +1,211 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+category_1:
+  id: 1
+  name: Продукти
+  description: їжа, напої
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.444562000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.444562000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.444562000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.444562000 Z
+
+category_2:
+  id: 2
+  name: Транспорт
+  description: метро, автобус
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.467496000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.467496000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.467496000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.467496000 Z
+
+category_3:
+  id: 3
+  name: Ліки
+  description: пігулки
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.490027000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.490027000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.490027000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.490027000 Z
+
+category_4:
+  id: 4
+  name: Побутова хімія
+  description: засіб для миття посуду
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.512977000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.512977000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.512977000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.512977000 Z
+
+category_5:
+  id: 5
+  name: Засоби гігієни
+  description: шампунь
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.535288000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.535288000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.535288000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.535288000 Z
+
+category_6:
+  id: 6
+  name: Отримання грошей
+  description: заробтна плата, позика, премія, виграш
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.535288000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-14 11:43:49.535288000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-14 11:43:49.535288000 Z
+    zone: *1
+    time: 2023-02-14 11:43:49.535288000 Z
+
+category_8:
+  id: 8
+  name: Громадське харчування
+  description: кафе, бари, ресторани
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:39:20.517462000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:39:20.517462000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:39:20.517462000 Z
+    zone: *1
+    time: 2023-02-22 20:39:20.517462000 Z
+
+category_9:
+  id: 9
+  name: Розваги
+  description: клуби, кіно
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:39:41.951750000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:39:41.951750000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:39:41.951750000 Z
+    zone: *1
+    time: 2023-02-22 20:39:41.951750000 Z
+
+category_10:
+  id: 10
+  name: Позика грошей
+  description: борги друзів
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:40:19.039856000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:40:19.039856000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:40:19.039856000 Z
+    zone: *1
+    time: 2023-02-22 20:40:19.039856000 Z
+
+category_11:
+  id: 11
+  name: Мобільний зв'язок та інтернет
+  description: витрати на зв'язок
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:41:10.175723000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:41:10.175723000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:41:10.175723000 Z
+    zone: *1
+    time: 2023-02-22 20:41:10.175723000 Z
+
+category_12:
+  id: 12
+  name: Перукарські послуги
+  description: стрижка, косметичні послуги
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:41:46.137241000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:41:46.137241000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:41:46.137241000 Z
+    zone: *1
+    time: 2023-02-22 20:41:46.137241000 Z
+
+category_13:
+  id: 13
+  name: Хімчистка
+  description: чистка одягу
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:09.270207000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:42:09.270207000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:09.270207000 Z
+    zone: *1
+    time: 2023-02-22 20:42:09.270207000 Z
+
+category_14:
+  id: 14
+  name: Ремонт
+  description: інструменти, суміші, фарби
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:39.119555000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:42:39.119555000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:39.119555000 Z
+    zone: *1
+    time: 2023-02-22 20:42:39.119555000 Z
+
+category_15:
+  id: 15
+  name: Авто
+  description: пальне, ремонт, гараж
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:59.710309000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:42:59.710309000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:42:59.710309000 Z
+    zone: *1
+    time: 2023-02-22 20:42:59.710309000 Z
+
+category_16:
+  id: 16
+  name: Подарунки
+  description: дні народження, річниці, хрестини
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:43:54.359619000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: Etc/UTC
+    time: 2023-02-22 20:43:54.359619000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2023-02-22 20:43:54.359619000 Z
+    zone: *1
+    time: 2023-02-22 20:43:54.359619000 Z

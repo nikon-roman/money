@@ -1,0 +1,33 @@
+<p style="color: green"><%= notice %></p>
+
+<div class="container text-center">
+  <table class="table table-hover table-bordered">
+    <thead class="table-dark">
+      <tr>
+        <th>Type operation</th>
+        <th>Description</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th>Category</th>
+        <th colspan="6"></th>
+      </tr>    
+    </thead>
+    <tbody>
+      <tr>
+      <% @operations.each do |operation| %>
+        <td><%= operation.type_operation %></td>
+        <td><%= operation.description %></td>
+        <td><%= operation.amount %></td>
+        <td><%= operation.odate %></td>
+        <td><%= Category.find(operation.category_id).name %></td>
+        <td><%= link_to "Show", operation, class:"btn btn-outline-secondary" %></td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>
+
+  <%= paginate @operations %>
+
+  <%= link_to "New operation", new_operation_path, class:"btn btn-outline-secondary" %>
+  <%= link_to "Back to home", root_path, class:"btn btn-outline-dark" %>
+</div>

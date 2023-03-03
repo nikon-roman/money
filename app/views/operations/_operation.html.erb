@@ -1,0 +1,27 @@
+<div id="<%= dom_id operation %>" class="container text-left">
+  <p>
+    <strong>Type operation:</strong>
+    <%= operation.type_operation %>
+  </p>
+  
+  <p>
+    <strong>Amount:</strong>
+    <%= operation.amount %>
+  </p>
+  
+  <p>
+    <strong>Odate:</strong>
+    <%= operation.odate %>
+  </p>
+  
+  <p>
+    <strong>Description:</strong>
+    <%= operation.description %>
+  </p>
+  
+  <p>
+    <strong>Category:</strong>
+    <%= Category.find(operation.category_id).name %>
+  </p>
+
+</div>

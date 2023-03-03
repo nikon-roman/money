@@ -1,0 +1,32 @@
+<h1>Генератор звітів</h1>
+<div class="container text-left">
+  <%= form_with url: "report_by_category", method: :get do |form| %>
+    <div>
+        <%= form.label 'Тип операції' %><br>
+        <%= form.select :type_operation, ["Розхід", "Дохід"] %>
+    </div>  
+    <br>  
+    <div>
+        <%= form.label 'Катергорія' %><br>
+        <%= form.select :category_id, Category.pluck(:name,:id) %>
+    </div>
+    <br>
+    <div>
+        <%= form.label 'Дата початку' %><br>
+        <%= form.datetime_field :start_date %>
+    </div>
+    <br>
+    <div>
+        <%= form.label 'Дата закінчення' %><br>
+        <%= form.datetime_field :end_date %>
+    </div>
+    <br>
+    <%= form.submit "Звіт по категоріям", class:"btn btn-outline-secondary" %>
+    <input type="submit" formaction='report_by_dates' value="Звіт по датам" class="btn btn-outline-secondary">
+    <% form.submit "Звіт по датам", class:"btn btn-secondary" %>
+  <% end %>
+  <br>
+  <div>
+    <%= link_to "Back to home", root_path, class:"btn btn-outline-dark" %>
+  </div>
+</div>
